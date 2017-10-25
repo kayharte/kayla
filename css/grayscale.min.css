@@ -64,7 +64,7 @@ a:focus,a:hover
     {padding-top:10px;
         padding-bottom:10px;
         border-bottom:1px solid rgba(255,255,255,.3);
-        background:#454936}#mainNav 
+        background:#25271D}#mainNav 
     .nav-link.active{
         outline:0;
         background-color:rgba(255,255,255,.3)}
@@ -79,7 +79,7 @@ a:focus,a:hover
     text-align:center;
     color:#fff;
     background:url(../img/IMG_2725.JPG) no-repeat bottom center scroll;
-    background-color:#454936;
+    background-color:#25271D;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
